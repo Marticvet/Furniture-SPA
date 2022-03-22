@@ -1,5 +1,5 @@
 # Furniture
- Furniture SPA created with vanila JavaScrip, Page.js and Lit-HTML
+ Furniture SPA created with vanila JavaScript, Page.js and Lit-HTML
  
  Required packages to run the project:
  -Live Server or HTTP-Server (Personal preference)
