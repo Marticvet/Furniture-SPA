@@ -6,4 +6,4 @@
  -Lit-HTML
  -Page.js
 
-Note: to start the server, You need to run from terminal server.js file in Server folder. Type in the console "node server.js" 
+Note: to start the server, You need to run from terminal server.js file in Server folder. Type in the console "node server.js".
