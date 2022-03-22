@@ -6,8 +6,8 @@ async function deleteHandler(context, id) {
 
     if(confirmation === true){
         authService.deleteFurniture(id);
+        context.page.redirect('/dashboard');
     }
-    context.page.redirect('/dashboard');
 }
 
 async function getView(context){
